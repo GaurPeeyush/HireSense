@@ -16,7 +16,13 @@ The Streamlit UI shows both the answer and the documents, along with a default-o
 - Orchestration/UI: Streamlit
 - Validation: Pydantic (category tool)
 
----
+## Sample Conversations
+
+<img width="1918" height="1015" alt="Screenshot 2025-11-02 at 5 25 57 PM" src="https://github.com/user-attachments/assets/eb44a005-5615-4164-b2a0-cfb52d7cf1f5" />
+<img width="1918" height="1015" alt="Screenshot 2025-11-02 at 6 07 03 PM" src="https://github.com/user-attachments/assets/c11f284a-cdc2-469c-affb-8b39585654d1" />
+<img width="1918" height="1015" alt="Screenshot 2025-11-02 at 6 06 34 PM" src="https://github.com/user-attachments/assets/fed321da-e4f3-4173-9abc-4c7b3c7a2f97" />
+<img width="1918" height="1015" alt="Screenshot 2025-11-02 at 5 28 05 PM" src="https://github.com/user-attachments/assets/7d072782-5b7e-46f9-99f0-867512a71e60" />
+<img width="1918" height="1015" alt="Screenshot 2025-11-02 at 5 27 04 PM" src="https://github.com/user-attachments/assets/437467ae-208e-4d76-b378-2323c1174188" />
 
 ## Quickstart
 
