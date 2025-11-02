@@ -1,0 +1,18 @@
+# Python & venv
+__pycache__/
+*.pyc
+venv/
+
+# OS
+.DS_Store
+
+# Secrets
+.env
+
+# Data (large or private)
+Resume/Resume_cleaned.csv
+data/
+
+# Streamlit
+.streamlit/
+

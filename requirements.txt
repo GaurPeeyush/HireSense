@@ -1,0 +1,8 @@
+openai>=1.14.0
+pinecone>=3.0.0
+pandas>=2.1.0
+python-dotenv>=1.0.0
+pydantic>=2.4.0
+streamlit>=1.33.0
+tqdm>=4.66.0
+
